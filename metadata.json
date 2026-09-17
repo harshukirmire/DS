@@ -1,0 +1,6 @@
+{
+  "name": "File Organizer Using Data Structure",
+  "description": "A college-level Data Structures mini-project demonstrating file organization using Arrays, Stacks, Queues, Hash Tables, and Hierarchical Trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
